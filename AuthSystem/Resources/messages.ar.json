@@ -1,0 +1,7 @@
+{
+  "UserNotFound": "المستخدم غير موجود.",
+  "ProfileUpdated": "تم تحديث البيانات بنجاح.",
+  "PasswordNotMatch": "كلمات المرور غير متطابقة.",
+  "AccountDeleted": "تم حذف الحساب بنجاح.",
+  "ResetCodeSent": "تم إرسال كود إعادة التعيين بنجاح."
+}

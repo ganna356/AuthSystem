@@ -1,0 +1,7 @@
+{
+  "UserNotFound": "User not found.",
+  "ProfileUpdated": "Profile updated successfully.",
+  "PasswordNotMatch": "Passwords do not match.",
+  "AccountDeleted": "Account deleted successfully.",
+  "ResetCodeSent": "Reset code sent successfully."
+}
